@@ -1,0 +1,472 @@
+# depslib dependency file v1.0
+1654804014 source:c:\users\user\desktop\puntaje\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+
+1654802323 c:\users\user\desktop\puntaje\puntaje\funciones puntaje.h
+
+1654804192 c:\users\user\desktop\puntaje\puntaje\void.h
+
+1655672800 source:c:\users\user\desktop\lab\puntaje\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1655586511 c:\users\user\desktop\lab\puntaje\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+
+1655674661 c:\users\user\desktop\lab\puntaje\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1655675215 c:\users\user\desktop\lab\puntaje\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1571584339 c:\users\user\desktop\lab\puntaje\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655586249 c:\users\user\desktop\lab\puntaje\puntaje\funciones nombre.h
+
+1655675088 c:\users\user\desktop\lab\puntaje\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1655937883 source:c:\users\dominguez\desktop\tp_final\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1655771267 c:\users\dominguez\desktop\tp_final\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1656337985 c:\users\dominguez\desktop\tp_final\puntaje\funciones nombre.h
+
+1656349149 c:\users\dominguez\desktop\tp_final\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1571584339 c:\users\dominguez\desktop\tp_final\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656338440 c:\users\dominguez\desktop\tp_final\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1656337985 c:\users\dominguez\desktop\tp_final\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1655937883 source:c:\users\user\downloads\tp_final\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1655771267 c:\users\user\downloads\tp_final\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1656337985 c:\users\user\downloads\tp_final\puntaje\funciones nombre.h
+
+1571584339 c:\users\user\downloads\tp_final\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656349937 c:\users\user\downloads\tp_final\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656338440 c:\users\user\downloads\tp_final\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1656337985 c:\users\user\downloads\tp_final\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1656708618 source:c:\users\dominguez\desktop\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+	"Prueba.h"
+
+1655771267 c:\users\dominguez\desktop\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1656337985 c:\users\dominguez\desktop\puntaje\funciones nombre.h
+
+1571584339 c:\users\dominguez\desktop\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656349937 c:\users\dominguez\desktop\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656708599 c:\users\dominguez\desktop\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1656337985 c:\users\dominguez\desktop\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1656708728 c:\users\dominguez\desktop\puntaje\prueba.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656860153 source:c:\users\user\desktop\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+	"Prueba.h"
+	"PruebaDos.h"
+
+1656860136 c:\users\user\desktop\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1656337985 c:\users\user\desktop\puntaje\funciones nombre.h
+
+1571584339 c:\users\user\desktop\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656859096 c:\users\user\desktop\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656708599 c:\users\user\desktop\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1656860327 c:\users\user\desktop\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1656859398 c:\users\user\desktop\puntaje\prueba.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656860356 c:\users\user\desktop\puntaje\pruebados.h
+
+1656936704 source:c:\users\dominguez\desktop\puntaje (8)\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+	"Prueba.h"
+	"PruebaDos.h"
+
+1656938258 c:\users\dominguez\desktop\puntaje (8)\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1656337985 c:\users\dominguez\desktop\puntaje (8)\puntaje\funciones nombre.h
+
+1571584339 c:\users\dominguez\desktop\puntaje (8)\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656938951 c:\users\dominguez\desktop\puntaje (8)\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656941626 c:\users\dominguez\desktop\puntaje (8)\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1656940751 c:\users\dominguez\desktop\puntaje (8)\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1656940942 c:\users\dominguez\desktop\puntaje (8)\puntaje\prueba.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656940942 c:\users\dominguez\desktop\puntaje (8)\puntaje\pruebados.h
+
+1656958851 source:c:\users\user\desktop\puntaje (8)\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+	"Prueba.h"
+	"PruebaDos.h"
+
+1656958133 c:\users\user\desktop\puntaje (8)\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1656337985 c:\users\user\desktop\puntaje (8)\puntaje\funciones nombre.h
+
+1571584339 c:\users\user\desktop\puntaje (8)\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656958499 c:\users\user\desktop\puntaje (8)\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656941626 c:\users\user\desktop\puntaje (8)\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1656958828 c:\users\user\desktop\puntaje (8)\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1656958499 c:\users\user\desktop\puntaje (8)\puntaje\prueba.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656958499 c:\users\user\desktop\puntaje (8)\puntaje\pruebados.h
+
+1656958851 source:c:\users\user\desktop\lalo\puntaje (8)\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+	"Prueba.h"
+	"PruebaDos.h"
+
+1656958133 c:\users\user\desktop\lalo\puntaje (8)\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1656337985 c:\users\user\desktop\lalo\puntaje (8)\puntaje\funciones nombre.h
+
+1571584339 c:\users\user\desktop\lalo\puntaje (8)\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656958499 c:\users\user\desktop\lalo\puntaje (8)\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656941626 c:\users\user\desktop\lalo\puntaje (8)\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1657116971 c:\users\user\desktop\lalo\puntaje (8)\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1656958499 c:\users\user\desktop\lalo\puntaje (8)\puntaje\prueba.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1656958499 c:\users\user\desktop\lalo\puntaje (8)\puntaje\pruebados.h
+
+1657125180 source:c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones puntaje.h"
+	"void.h"
+	"Menu.h"
+	<string.h>
+	"Funciones nombre.h"
+	"voidDos.h"
+	"Prueba.h"
+	"PruebaDos.h"
+
+1656958133 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\funciones puntaje.h
+	"Funciones nombre.h"
+	"rlutil.h"
+
+1657117106 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\funciones nombre.h
+
+1571584339 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657127193 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\void.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1657124151 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\menu.h
+	"rlutil.h"
+	"Funciones nombre.h"
+	"voidDos.h"
+
+1657129659 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\voiddos.h
+	"Funciones nombre.h"
+	"Menu.h"
+
+1657121820 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\prueba.h
+	"rlutil.h"
+	"Funciones nombre.h"
+
+1657121820 c:\users\dominguez\desktop\lalo\lalo\puntaje (8)\puntaje\pruebados.h
+
